@@ -1,0 +1,5 @@
+bin/
+config.txt
+doc/
+.settings
+.classpath
